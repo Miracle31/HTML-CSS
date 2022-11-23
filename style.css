@@ -1,0 +1,65 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+h1 {
+  color: white;  
+  font-size: 100px;  
+  font-weight: bold;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h3 {
+  color: whitesmoke; 
+}
+body{
+  background-color: black;
+}
+header{
+	background-image:url(img/Records.jpg);
+}
+
+.selection {
+font-weight: bold;
+background-color: #ef8354;
+font-size: 25px;
+text-align: center;
+color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span{font-weight: bold;}
+
+.selection1 {
+  font-weight: bold;
+  background-color: #0e7c7b;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .selection2 {
+    font-weight: bold;
+    background-color: #9c538b;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    
+  a:hover {
+      color: #ef8354;}
+  a:link {
+        color: #9c528b;}
+  footer {
+          color: white;
+          text-align: center;
+        }
+        
+  p {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+  }
+    
