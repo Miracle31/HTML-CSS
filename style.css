@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #274471;
+  font-family: "lato", sans-serif;
+}
+.container {
+  border-radius: 6px;
+  margin: 30px auto;
+  width: 400px;
+  background-color: rgb(243, 243, 243);
+ }
+#contactForm {
+  padding: 25px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+
+  background-color: rgba(178, 79, 79, 0.361);
+  width: 100%;
+  padding: 10px 16px 10px 16px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 5px black;
+  
+}
+
+input[type="submit"] {
+  background-color: #1ac0f3;
+  padding: 14px, 20px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+}
+
+input[type="submit"]:hover {
+  background-color: lightblue;
+}
+
+input {
+  display: inline-block;
+  width: 100%;
+}
